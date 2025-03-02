@@ -1,3 +1,3 @@
 Github-gl-tut
 
-here everyone is learn about the books 
+here everyone will learn about the books
